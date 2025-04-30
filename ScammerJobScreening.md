@@ -1,11 +1,14 @@
 # What A Scammer Taught Me About Me..
 
 ## Preface:
+
  [ The who, what and why here ]
+ 
 ---
 ## Document Contents
 
 [ Address of Legitimate company ]
+
 Screening Test/Interview Questions for Junior Web Developer (Remote) Position
 
 ### Instructions:
@@ -14,7 +17,7 @@ Screening Test/Interview Questions for Junior Web Developer (Remote) Position
 
 *Candidate’s Name: Eric Trinque*
 
-*Interviewer’s Name: David Allen [ Scammers Fake Name ]*
+*Interviewer’s Name: David Allen [ **Scammers Fake Name** ]*
 
 **1. Are you currently employed?**
 
@@ -142,7 +145,7 @@ I would like to remain competitive in my area and field, as well as maintain our
 
 ###Compensation:
 
-$70 per hour. [ WOW! Thats $140k for a Junior! B.S.. ]
+$70 per hour. [ **WOW! That's $140k for a Junior! B.S..** ]
 
 ### Place of Work:
 
